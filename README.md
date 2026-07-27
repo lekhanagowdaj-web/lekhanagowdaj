@@ -81,7 +81,7 @@ using sensors, LoRa communication and Raspberry Pi.
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/lekhanagowdaj-web
-- LinkedIn:linkedin.com/in/lekhanagowdaj
+- LinkedIn:https://linkedin.com/in/lekhanagowdaj
 
 ---
 
